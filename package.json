@@ -1,0 +1,32 @@
+{
+  "name": "foodjunction",
+  "version": "1.0.0",
+  "description": "Food  online portal",
+  "main": "App.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeeppal1999/FooDJuction.git"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeeppal1999/FooDJuction/issues"
+  },
+  "homepage": "https://github.com/Sandeeppal1999/FooDJuction#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
